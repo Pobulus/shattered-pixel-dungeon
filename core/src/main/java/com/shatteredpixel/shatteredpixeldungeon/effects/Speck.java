@@ -286,7 +286,7 @@ public class Speck extends Image {
 			break;
 			
 		case TOXIC:
-			hardlight( 0x50FF60 );
+			hardlight( 0xEEEEF0 );
 			angularSpeed = 30;
 			angle = Random.Float( 360 );
 			lifespan = Random.Float( 1f, 3f );

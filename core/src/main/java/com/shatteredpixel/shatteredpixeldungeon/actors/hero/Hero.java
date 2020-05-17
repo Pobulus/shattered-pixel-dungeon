@@ -1412,7 +1412,7 @@ public class Hero extends Char {
 
 			ankh.detach(belongings.backpack);
 
-			Sample.INSTANCE.play( Assets.SND_TELEPORT );
+			Sample.INSTANCE.play( Assets.SND_REVIVE );
 			GLog.w( Messages.get(this, "revive") );
 			Statistics.ankhsUsed++;
 			

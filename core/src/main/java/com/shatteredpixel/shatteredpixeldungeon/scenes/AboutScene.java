@@ -48,7 +48,7 @@ public class AboutScene extends PixelScene {
 	private static final String TTL_SM = "Słowak Movie Dungeon";
 
 	private static final String TXT_SM =
-			"Graphics by Pobulus\n"
+			"Graphics by Pobulus\n" + "Music by Baton\n"
 			+ "Distribution by Szymon Łakomy";
 
 

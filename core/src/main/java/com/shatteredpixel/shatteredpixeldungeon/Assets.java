@@ -178,6 +178,7 @@ public class Assets {
 	public static final String SND_RAY		= "snd_ray.mp3";
 	public static final String SND_BEACON	= "snd_beacon.mp3";
 	public static final String SND_TELEPORT	= "snd_teleport.mp3";
+	public static final String SND_REVIVE	= "snd_revive.mp3";
 	public static final String SND_CHARMS	= "snd_charms.mp3";
 	public static final String SND_MASTERY	= "snd_mastery.mp3";
 	public static final String SND_PUFF		= "snd_puff.mp3";
